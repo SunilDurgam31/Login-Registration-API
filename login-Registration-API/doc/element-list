@@ -1,0 +1,6 @@
+com.example.instructor
+com.example.instructor.config
+com.example.instructor.controller
+com.example.instructor.models
+com.example.instructor.repository
+com.example.instructor.services
